@@ -7,6 +7,6 @@ https://blogs.technet.microsoft.com/cloudpfe/2014/10/26/using-time-based-one-tim
 <br>
 TODO:
 <br>
-Save Key in Encrypted in Dynamo or AWS Parameters
+Save Key Encrypted in Dynamo or AWS Parameters
 <br>
 Sample using API Gateway/Lambda?
